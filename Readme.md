@@ -6,5 +6,5 @@
 `example6` - Wiring beans using @Autowired on constructor\
 `example7` - Autowiring multiple beans of same type\
 `assignment-1` - Related to Beans, Autowiring, DI\
-`example8` - Bean scope : @Scope (Singleton, Prototype), @Lazy and Eager
+`example8` - Bean scope : @Scope (Singleton, Prototype), @Lazy and Eager\
 `example9` - AOP - Aspect, Advice, PointCut
